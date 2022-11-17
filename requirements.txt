@@ -1,0 +1,11 @@
+selenuim 
+requests
+time
+
+
+
+ # url ="https://go.wootly.ch/dash?source=web&id=09401337e5bc4a44baf850e8b38b4b402aaae3ce&sig=6F94J3RBryuL9DzsKvAdug&expire=1668656900&ofs=11&usr=171654"
+        # r = requests.get(url,stream=True)
+        # with open("file.mp4","wb") as file:
+        #     for  chunk in r.iter_content(chunk_size=chunk_size):
+        #         file.write(chunk)
